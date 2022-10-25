@@ -33,5 +33,10 @@ public class CarsRepository
 
   }
 
+  public Car DeleteCar(Car carId)
+  {
+    
+  }
+
 
 }
